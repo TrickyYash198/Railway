@@ -1,3 +1,3 @@
-git clone $REPO_URL RythmBeatz && cd RythmBeatz
+git clone $REPO_URL String && cd String
 pip3 install -U -r requirements.txt
 $START_CMD
